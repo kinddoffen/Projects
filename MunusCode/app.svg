@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 250.47 250.47">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient-4);
+        stroke: url(#linear-gradient-5);
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 8.27px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-2);
+        stroke: url(#linear-gradient-3);
+      }
+
+      .cls-3 {
+        fill: #fff;
+        stroke: url(#New_Gradient_Swatch_1);
+        stroke-width: 5.47px;
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient);
+        stroke: url(#New_Gradient_Swatch_1-2);
+        stroke-width: 5.07px;
+      }
+    </style>
+    <linearGradient id="New_Gradient_Swatch_1" data-name="New Gradient Swatch 1" x1="-16.82" y1="43.22" x2="267.29" y2="207.25" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#78ff96"/>
+      <stop offset=".04" stop-color="#6ef99e"/>
+      <stop offset=".16" stop-color="#5cefaf"/>
+      <stop offset=".28" stop-color="#50e9b9"/>
+      <stop offset=".41" stop-color="#4de7bd"/>
+      <stop offset=".68" stop-color="#a09fff"/>
+      <stop offset=".89" stop-color="#9776ff"/>
+      <stop offset="1" stop-color="#6a66ff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient" x1="32.98" y1="79.94" x2="214.69" y2="184.84" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#78ff96"/>
+      <stop offset=".04" stop-color="#6ef99e"/>
+      <stop offset=".16" stop-color="#5cefaf"/>
+      <stop offset=".28" stop-color="#50e9b9"/>
+      <stop offset=".41" stop-color="#4de7bd"/>
+      <stop offset=".68" stop-color="#a09fff"/>
+      <stop offset=".89" stop-color="#9776ff"/>
+      <stop offset="1" stop-color="#6a66ff"/>
+    </linearGradient>
+    <linearGradient id="New_Gradient_Swatch_1-2" data-name="New Gradient Swatch 1" x1="32.19" y1="79.48" x2="218.28" y2="186.92" xlink:href="#New_Gradient_Swatch_1"/>
+    <linearGradient id="linear-gradient-2" x1="112.25" y1="22.84" x2="138.22" y2="37.84" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6a66ff"/>
+      <stop offset="0" stop-color="#a09fff"/>
+      <stop offset="0" stop-color="#9776ff"/>
+      <stop offset="0" stop-color="#54ddc3"/>
+      <stop offset="0" stop-color="#4de7bd"/>
+      <stop offset=".31" stop-color="#50e9b9"/>
+      <stop offset=".61" stop-color="#5cefaf"/>
+      <stop offset=".89" stop-color="#6ef99e"/>
+      <stop offset="1" stop-color="#78ff96"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="108.67" y1="20.77" x2="141.8" y2="39.9" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6a66ff"/>
+      <stop offset="0" stop-color="#9776ff"/>
+      <stop offset="0" stop-color="#a09fff"/>
+      <stop offset="0" stop-color="#4de7bd"/>
+      <stop offset=".31" stop-color="#50e9b9"/>
+      <stop offset=".61" stop-color="#5cefaf"/>
+      <stop offset=".89" stop-color="#6ef99e"/>
+      <stop offset="1" stop-color="#78ff96"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="104.81" y1="26.33" x2="145.66" y2="49.91" xlink:href="#linear-gradient-2"/>
+    <linearGradient id="linear-gradient-5" x1="101.23" y1="24.27" x2="149.24" y2="51.98" xlink:href="#linear-gradient-3"/>
+  </defs>
+  <rect class="cls-3" x="2.74" y="2.74" width="245" height="245" rx="16.5" ry="16.5"/>
+  <g>
+    <rect class="cls-4" x="53.79" y="38.48" width="142.89" height="189.43" rx="11.82" ry="11.82"/>
+    <rect class="cls-2" x="111.75" y="22.55" width="26.98" height="15.57" rx="1.58" ry="1.58"/>
+    <rect class="cls-1" x="101.83" y="30.34" width="46.8" height="15.57" rx="1.58" ry="1.58"/>
+  </g>
+</svg>
